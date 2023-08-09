@@ -1,0 +1,22 @@
+Debut
+
+
+10/03/2022: Commander l'écran, les moteurs, les poulies et courroies, les moteurs, les drivers moteurs et le shield motor pour la raspberry pi / Découper les vis sans fin et Réfléchir à la structure globale du système / Développer la reconnaissance visuelle du smartphone que filme la caméra
+
+17/03/2022: Réfléchir à quoi va ressembler l'interface graphique / Connecter l'écran tactile à la raspberry pi 3B+ / Imprimer en 3D les attaches pour les plateformes / Développer la reconnaissance visuelle du smartphone que filme la caméra
+
+24/03/2022: Découvrir le fonctionnement des fenêtres avec la librairie tkinter sur python / Placer les attaches faites en imp 3D sur les vis sans fin / Développer la reconnaissance visuelle du smartphone que filme la caméra
+
+31/03/2022: Ajouter les fonctionnalitées de base pour l'interface graphique / Modéliser les plans pour la découpe avec la CNC / Découverte du moyen de commande des moteurs pas à pas / Faire le rapport sur les différents capteurs du Phlaser / Développer la reconnaissance visuelle du smartphone que filme la caméra
+
+07/04/2022: Afficher le retour de la caméra sur l'interface graphique / Réussir à faire fonctionner le moteur pas à pas plus rapidement / Découper avec la CNC les différentes plateformes du dispositif / Finir le rapport sur les différents capteurs du Phlaser / Développer la reconnaissance visuelle du smartphone que filme la caméra
+
+13/04/2022: Afficher le retour de la caméra sur l'interface graphique / Réussir à faire fonctionner le moteur pas à pas plus rapidement / Faire la commande des rails pour les déplacements x et y de la plateforme / Développer la reconnaissance visuelle du smartphone que filme la caméra
+
+14/04/2022: Amélioration de l'interface grapique pour ajouter des fonctionnalitées / Réussir à faire fonctionner le moteur pas à pas plus rapidement / Développer la reconnaissance visuelle du smartphone que filme la caméra
+
+28/04/2022 : Fluidification du retour camera / Réussir à faire fonctionner le moteur pas à pas plus rapidement / Implémenter la reconnaissance des smartphones dans le retour camera
+
+09/05/2022 : Implémentation du code sur raspberry pi / Monter la machine avec toutes les pièces qui sont arrivées / Tester
+
+12/05/2022 : Télécharger les librairies nécessaires sur raspberry pi / Continuer à monter la machine avec toutes les pièces qui sont arrivées / Essayer de réaliser un test si tout est fini
